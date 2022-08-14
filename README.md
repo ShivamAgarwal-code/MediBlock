@@ -1,9 +1,3 @@
-# Hophacks 2018
-
-Design Inspired from Christie Tang's [design](https://dribbble.com/shots/4039806-Flowstep-Steps-Tracker-App). 
-
-Check out her work [here](https://www.christietang.com/)!
-
 ## Demo (1/2)
 
 ![alt](./demo.gif)
